@@ -13,6 +13,10 @@ I am a software developer with 8+ years of experience in various programming lan
 - Flask
 - Java
 
+### My links
+[GitHub.com]("https://github.com/atlance23")🔗
+[LinkedIn Profile]("https://linkedin.com/in/noahbcaldwell")🔗
+
 ### Github Stats 
 
 <div width="100%" style="display: flex; flex-direction: row;">
