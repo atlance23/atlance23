@@ -14,8 +14,8 @@ I am a software developer with 8+ years of experience in various programming lan
 - Java
 
 ### My links
-[GitHub.com]("https://github.com/atlance23")
-[LinkedIn Profile]("https://linkedin.com/in/noahbcaldwell")
+&nbsp; [GitHub.com]("https://github.com/atlance23")
+&nbsp; [LinkedIn Profile]("https://linkedin.com/in/noahbcaldwell")
 
 ### Github Stats 
 
