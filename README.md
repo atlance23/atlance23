@@ -16,8 +16,8 @@ I am a software developer with 8+ years of experience in various programming lan
 ### Github Stats
 
 <div width="100%">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atlance23&layout=compact&langs_count=8&theme=algolia">
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atlance23&layout=compact&langs_count=8&theme=algolia">
 </div>
 
 ### Backend Languages
