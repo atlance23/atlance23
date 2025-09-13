@@ -1,6 +1,6 @@
 # Looking For an Experienced Software Developer?
 
-<div style="width: 100%; min-height: 100px; display: flex; align-item: center; justify-content: center;">
+<div>
     <img style="width: 100%;" alt="Software Dev in front of computer" src="./assets/github.comatlance23.webp">
 </div>
 
