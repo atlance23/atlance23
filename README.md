@@ -13,6 +13,9 @@ I am a software developer with 8+ years of experience in various programming lan
 - Flask
 - Java
 
+### Github Stats
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+
 ### Backend Languages
 - Go
 - Python
