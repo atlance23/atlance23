@@ -14,7 +14,15 @@ I am a software developer with 8+ years of experience in various programming lan
 - Java
 
 ### Github Stats
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+
+<div style="display: grid; grid-template-columns: auto auto">
+    <div>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    </div>
+    <div>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atlance23&layout=compact&langs_count=8&theme=algolia">
+    </div>
+</div>
 
 ### Backend Languages
 - Go
