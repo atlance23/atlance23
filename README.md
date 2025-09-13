@@ -17,9 +17,9 @@ I am a software developer with 8+ years of experience in various programming lan
 
 <div width="100%" style="display: flex; flex-direction: row;">
     <p align="center">
-        <h3>GitHub Stats</h3>
+        <h3><u>GitHub Stats</u></h3>
         <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-        <h3>Programming Languages</h3>
+        <h3><u>Programming Languages</u></h3>
         <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atlance23&layout=compact&langs_count=8&theme=algolia">
     </p>
 </div>
