@@ -13,14 +13,14 @@ I am a software developer with 8+ years of experience in various programming lan
 - Flask
 - Java
 
-### Github Stats
+### Github Stats 
 
 <div width="100%" style="display: flex; flex-direction: row;">
     <p align="center">
-        <p><u><b>GitHub Stats</b></u></p>
-        <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-        <p><u><b>Programming Languages</b></u></p>
-        <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atlance23&layout=compact&langs_count=8&theme=algolia">
+        <p><b>My GitHub Stats</b></p>
+        <img width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+        <p><b>Programming Languages</b></p>
+        <img width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atlance23&layout=compact&langs_count=8&theme=algolia">
     </p>
 </div>
 
