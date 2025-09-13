@@ -15,7 +15,7 @@ I am a software developer with 8+ years of experience in various programming lan
 
 ### Github Stats
 
-<div style="display: grid; grid-template-columns: auto auto">
+<div style="display: grid; grid-template-columns: 1fr 1fr">
     <div>
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atlance23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
     </div>
