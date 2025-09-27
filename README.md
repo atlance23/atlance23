@@ -4,7 +4,7 @@
     <img style="width: 100%;" alt="Software Dev in front of computer" src="./assets/github.comatlance23.webp">
 </div>
 
-## Hello! 👋 My name is Noah Caldwell
+## Hello! 👋 My name is Noah!
 I am a software developer with 8+ years of experience in various programming languages and frameworks including, but not limited to:
 - Go
 - JavaScript
@@ -17,7 +17,7 @@ I am a software developer with 8+ years of experience in various programming lan
 <a href="https://github.com/atlance23">
     <p>GitHub.com</p>
 </a>
-<a href="https://linkedin.com/in/noahbcaldwell">
+<a href="https://linkedin.com/in/noahc-dev">
     <p>LinkedIn Profile</p>
 </a>
 
